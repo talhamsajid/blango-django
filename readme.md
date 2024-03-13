@@ -1,0 +1,1 @@
+" #Blango App for Django" 
